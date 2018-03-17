@@ -1,8 +1,8 @@
 #code samples
-/LeetC
+/leet-C
   twoSum -- https://leetcode.com/problems/two-sum/description/
   - implements simple hash
 
-/LeetC++
+/leet-C++
 
-/LeetPython
+/leet-Python
