@@ -2,7 +2,7 @@
 
 /leet-C
   twosum -- https://leetcode.com/problems/two-sum/description/
-  - implements simple hash tble
+  - implements simple hash table
 
 /leet-C++
 
